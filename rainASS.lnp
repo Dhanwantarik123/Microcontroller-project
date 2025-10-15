@@ -1,0 +1,3 @@
+".\Objects\rainASS.obj" 
+TO ".\Objects\rainASS" 
+PRINT(".\Listings\rainASS.m51") RAMSIZE(256) 
